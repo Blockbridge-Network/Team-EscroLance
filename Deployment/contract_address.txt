@@ -1,0 +1,6 @@
+DEPLOYED ON SONIC TESTNET
+
+Token Authority contract address: 0x310f371bd66ba0b84b29dba939351da05ae5179f
+dJOB.sol contract address: 0x4873eddf8783f7e9fae9cc947278910cf974948e
+BadgeNFT.sol: 0xe90759d1275f0a7e4c5c25627b4243d8ae56e73b
+dJOBPlatform: 0x9a22fc282cbbf0f01d1f7e43bd57da8418c68623
